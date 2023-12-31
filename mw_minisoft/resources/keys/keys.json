@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aerial-optics-344506",
+  "private_key_id": "5dd1246f181def27e22c3301ab9c1a2aa256a010",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjRM2uc2LGVJdE\nH73+RcKN1BME+M18ajMjvmYexmpio/zFtOLRWMZcgHeJ/x0YlxZ+gIGXHk+0CzW/\n6M189hvOThJ7Kr+gY6gwLgAmKfOxA3e7GDMDdT4F/1xWggI+RhTM9t1kFu5Fx+cd\n0BnS5BTJoDPOwTn+WtIhNJxFBlvxRVc279ASEv945Qq7CYfkDhsJLIa60pguob2J\nn6XCgjGPyQX3lxgWk5WpBn6n1P+GWopwmwWrXNAuJgSfWj4Zo2KZNWokA5ThFJj5\nd7z+6Ib+vPJCeUwKlYYA3sfjS2R8GL4/xdA0un/QkW6ieY9r4NIifAOfWGbtJc0h\nRPrlbT17AgMBAAECggEAAsmm9WaU9iv1lT0xgkjwpHlNhdU1tP0fOGoE1luu71Y7\nd6i6ArcQU/4BjIKlnYje4nQRQmJLHBjg5xDziUGugdxFZoL5WKS692+howUuWwRj\nI/eqz1FOKM4OZo+7uBJ8Qm+oog/eK6TZJmIqPraUQEkS+WHFOrmUQuriDC+qnDj6\n4xjxGV9BbB02aXbhAYh+2fyRuCPeiZn02XfaFwptlA5ere4imZKl84xGc1UZ5Bi3\n1xhx3UrwwEjMIAH/Jb5K/UZH94FU/1iODCc0HYZOxjpnvjQSXVeJqH+4sFgpmWr0\nrQY0B9TrBjjgrxNB355gj47dVPq0lGPgB1tORTdeGQKBgQDS66IuBg2ajHbSW9AF\nTLaZsGzEPbqwaUU+GfmCTgKqhe67+qvTvmYwznICLW4fogwi55iSu2briKQjGPg8\nbImyFkVnZrCegrNWRTYgFgWzctchZ62x3rexvhGz+kFWR+liPWn0D0ehIWmACUVI\n+ehwbFM9dvcaZHOz496LDy1edwKBgQDGKfDvEpMNrOoYpWRpj3Lezj5XB9NYra82\nIXnbalBCEPTjMvPW0+NhJgYwKCUqMt2h6mcelEQf2RXOH6J8XANUpIF08o95EsHx\nU6fQckiQKfDNvch/ieppahBLfNzFUgcSzjnCg/HfkTVzhyT1fKpT//Td/HJUSl1b\nEwAH2nNGHQKBgQCmB/C5c/BfeTTLsJRWp6WR48wqykDcP3HPSdkcFtaIbzeXZ+K8\nosOEpe4fAq4OXpxZGaAD2VtSC1TRgAVgYzwdIOTvWWmszUvonEDYDx3bvYnVdOzI\n+H33f5wl5dhq197Cg3+VLDYBg/CtZh7RLFApt0vrNWucrfhaYgS7yG25TwKBgBDV\n/2JQca33wuvVIXLWfSvw2dsLDym5l+lBbtj1b1wtlKC4836NAgR+9oeg4Yd0SuA2\nygwPDLqn9vJMPcHTD3VhhJ4q/YWL0m5ubROIoiGdbpgMR7yOOxw5pqjDMv6QuYkf\nfEjKbQJRk/j8wmcY8F+yn1s813nR15ylQJtqM+EBAoGBALGcrX7GUBloBL9qDtey\n5KBdLy1Q6QVJRcOay/SMTMJCcXIRLp7yL4yTMPWooBQ2ggi9gROkQvj29uqR0wdG\n1oSxbwrU7Dmpx9g1D2vzJ+dM/UY6nVjacVdZQklZ+OszvKYAAUAqtoufAlGnw/++\nQqN3FEk0Jjb1mYr806Rxfl7e\n-----END PRIVATE KEY-----\n",
+  "client_email": "minisoft-google-sheet@aerial-optics-344506.iam.gserviceaccount.com",
+  "client_id": "107654064706536447142",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/minisoft-google-sheet%40aerial-optics-344506.iam.gserviceaccount.com"
+}

@@ -1,0 +1,1803 @@
+1646398693036	geckodriver	INFO	Listening on 127.0.0.1:57990
+1646398696049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57991" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileviAdxO"
+*** You are running in headless mode.
+1646398696276	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileviAdxO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57991/devtools/browser/44cbd13b-b9b8-4b6e-887a-5943a24e43bb
+1646398697066	Marionette	INFO	Listening on port 57996
+1646398697100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1646398704065	Marionette	INFO	Stopped listening on port 57996
+1646451011074	geckodriver	INFO	Listening on 127.0.0.1:60684
+1646451014226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60685" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileDIK0OI"
+*** You are running in headless mode.
+1646451014656	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileDIK0OI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60685/devtools/browser/279bbbc2-7cd0-4f81-a9ec-8dafd9c3ae6f
+1646451015704	Marionette	INFO	Listening on port 60690
+1646451015836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1646451022781	Marionette	INFO	Stopped listening on port 60690
+1646490584306	geckodriver	INFO	Listening on 127.0.0.1:50459
+1646490586358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50460" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofiledqgtzf"
+*** You are running in headless mode.
+1646490588112	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofiledqgtzf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50460/devtools/browser/6d77f16a-8a7f-40d4-bae6-1020bea72001
+1646490590481	Marionette	INFO	Listening on port 50465
+1646490590756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1646490596151	Marionette	INFO	Stopped listening on port 50465
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1646573250816	geckodriver	INFO	Listening on 127.0.0.1:62073
+1646573252879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62074" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileNq1YWh"
+*** You are running in headless mode.
+1646573254503	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileNq1YWh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62074/devtools/browser/823e6289-0572-44b4-891a-7c143f2f6522
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646573257434	Marionette	INFO	Listening on port 62079
+1646573257884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1646573263115	Marionette	INFO	Stopped listening on port 62079
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1646573264767	geckodriver	INFO	Listening on 127.0.0.1:62141
+1646573266813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62142" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofile8xsnop"
+*** You are running in headless mode.
+1646573267314	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofile8xsnop\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62142/devtools/browser/2d6a790a-9c74-4b15-9487-6dee2c0287a2
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646573269392	Marionette	INFO	Listening on port 62147
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646573269573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1646573275469	Marionette	INFO	Stopped listening on port 62147
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647172977068	geckodriver	INFO	Listening on 127.0.0.1:51371
+1647172979076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51372" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofilezFXgMn"
+*** You are running in headless mode.
+1647172981005	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofilezFXgMn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51372/devtools/browser/4d615dfb-36ae-4a60-ba6a-c8f74e67e07e
+1647172983872	Marionette	INFO	Listening on port 51377
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647172984075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647172989196	Marionette	INFO	Stopped listening on port 51377
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647172991347	geckodriver	INFO	Listening on 127.0.0.1:51438
+1647172993398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51439" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileovBQVr"
+*** You are running in headless mode.
+1647172993861	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileovBQVr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51439/devtools/browser/86c0e5a3-87a8-4687-aa8f-9a6cfd65fdbf
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+1647172995849	Marionette	INFO	Listening on port 51444
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647172996135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647173002852	Marionette	INFO	Stopped listening on port 51444
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647483698160	geckodriver	INFO	Listening on 127.0.0.1:56515
+1647483700197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56516" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileZ2kyDi"
+*** You are running in headless mode.
+1647483702077	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileZ2kyDi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56516/devtools/browser/23bd4483-0dd4-4d93-b432-2e97cb3edbe3
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+1647483705211	Marionette	INFO	Listening on port 56541
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647483705263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647483711781	Marionette	INFO	Stopped listening on port 56541
+1647483713391	geckodriver	INFO	Listening on 127.0.0.1:56633
+1647483715429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56634" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofile96TnAu"
+*** You are running in headless mode.
+1647483715875	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofile96TnAu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56634/devtools/browser/75181b3c-0afd-4d1b-8928-5f445d13d57a
+1647483718110	Marionette	INFO	Listening on port 56639
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+1647483718235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647483724940	Marionette	INFO	Stopped listening on port 56639
+1647613727736	geckodriver	INFO	Listening on 127.0.0.1:60779
+1647613729768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60780" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileF6W8DX"
+*** You are running in headless mode.
+1647613731908	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileF6W8DX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60780/devtools/browser/a2624b4a-4d22-4f36-b2a4-08e03429b587
+1647613735717	Marionette	INFO	Listening on port 60786
+1647613735788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647613741580	Marionette	INFO	Stopped listening on port 60786
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+1647613744032	geckodriver	INFO	Listening on 127.0.0.1:60863
+1647613746077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60864" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofile3543oY"
+*** You are running in headless mode.
+1647613746803	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofile3543oY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60864/devtools/browser/26e68b48-2b65-4334-b296-9256cf145ac6
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647613749424	Marionette	INFO	Listening on port 60875
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647613749712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647613756873	Marionette	INFO	Stopped listening on port 60875
+1647614248710	geckodriver	INFO	Listening on 127.0.0.1:61178
+1647614250738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61179" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofile903crY"
+*** You are running in headless mode.
+1647614252331	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofile903crY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61179/devtools/browser/02ba23f4-327c-4061-b7af-ff2d88a9bdc9
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647614255012	Marionette	INFO	Listening on port 61184
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647614255121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647614260470	Marionette	INFO	Stopped listening on port 61184
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647614261922	geckodriver	INFO	Listening on 127.0.0.1:61245
+1647614263937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61246" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileQucjf3"
+*** You are running in headless mode.
+1647614264600	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileQucjf3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61246/devtools/browser/34e50b75-9a53-4d9d-a91a-529b126a0fae
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647614266900	Marionette	INFO	Listening on port 61251
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647614267176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647614273650	Marionette	INFO	Stopped listening on port 61251
+1647614628520	geckodriver	INFO	Listening on 127.0.0.1:61514
+1647614630540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61515" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofilegTpEt2"
+*** You are running in headless mode.
+1647614631085	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofilegTpEt2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61515/devtools/browser/a783d0f3-513c-4033-a44c-02c8a3522e72
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+1647614633144	Marionette	INFO	Listening on port 61523
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647614633290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647614638613	Marionette	INFO	Stopped listening on port 61523
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647614640400	geckodriver	INFO	Listening on 127.0.0.1:61580
+1647614642432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61581" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileiLE237"
+*** You are running in headless mode.
+1647614642959	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileiLE237\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61581/devtools/browser/5e005856-a5c0-4aba-a5d7-22fa30ec0f77
+1647614645422	Marionette	INFO	Listening on port 61587
+1647614645708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647614651395	Marionette	INFO	Stopped listening on port 61587
+1647615087679	geckodriver	INFO	Listening on 127.0.0.1:61851
+1647615089720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61852" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileu4QKxD"
+*** You are running in headless mode.
+1647615090231	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileu4QKxD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61852/devtools/browser/9f77f70b-7475-4f6e-b0a3-4f1723bfef07
+1647615092272	Marionette	INFO	Listening on port 61857
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647615092469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1647615096967	Marionette	INFO	Stopped listening on port 61857
+1647615098411	geckodriver	INFO	Listening on 127.0.0.1:61915
+1648348110513	geckodriver	INFO	Listening on 127.0.0.1:51236
+1648348112548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51237" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileQKnhFC"
+*** You are running in headless mode.
+1648348114136	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileQKnhFC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51237/devtools/browser/529c3cb7-1d82-4aa8-ac41-8dc0ab1034a8
+1648348116565	Marionette	INFO	Listening on port 51242
+1648348116966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1648348122408	Marionette	INFO	Stopped listening on port 51242
+1648348123790	geckodriver	INFO	Listening on 127.0.0.1:51299
+1648348125822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51300" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofilegcqcLe"
+*** You are running in headless mode.
+1648348126275	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofilegcqcLe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51300/devtools/browser/2121a2a2-758f-42ca-b395-b3e26ffb50e5
+1648348128227	Marionette	INFO	Listening on port 51305
+1648348128564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1648348134115	Marionette	INFO	Stopped listening on port 51305
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+1650263868866	geckodriver	INFO	Listening on 127.0.0.1:62936
+1650263870876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62937" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileQdHvam"
+*** You are running in headless mode.
+1650263872434	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileQdHvam\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62937/devtools/browser/c72f7733-4cd9-409b-aca2-a45b9061314d
+1650263874900	Marionette	INFO	Listening on port 62942
+1650263875245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1650263880900	Marionette	INFO	Stopped listening on port 62942
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+1650263882274	geckodriver	INFO	Listening on 127.0.0.1:62994
+1650263884293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62995" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileM0Lp2o"
+*** You are running in headless mode.
+1650263884738	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileM0Lp2o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62995/devtools/browser/5356bac1-a307-452d-bcae-133c73c37bb7
+1650263886966	Marionette	INFO	Listening on port 63005
+1650263887051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kite.zerodha.com"
+1650263892688	Marionette	INFO	Stopped listening on port 63005
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1663154456762	geckodriver	INFO	Listening on 127.0.0.1:52874
+1663154458952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52875" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileFJxbvD"
+*** You are running in headless mode.
+1663154461430	Marionette	INFO	Marionette enabled
+1663154461443	Marionette	INFO	Listening on port 52880
+WebDriver BiDi listening on ws://localhost:52875
+1663154462291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileFJxbvD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52875/devtools/browser/a6e75a84-f547-4572-adb1-bb040bc18421
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/g8G8cw32bNQPGUVoDvt680GA/recaptcha__en.js, line 452: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663154499501	geckodriver	INFO	Listening on 127.0.0.1:52195
+1663154501518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52196" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileFlsKQ1"
+*** You are running in headless mode.
+1663154502515	Marionette	INFO	Marionette enabled
+1663154502526	Marionette	INFO	Listening on port 52207
+WebDriver BiDi listening on ws://localhost:52196
+1663154502830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileFlsKQ1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52196/devtools/browser/efe04472-a772-4014-8b10-6a3bcd12c30a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/g8G8cw32bNQPGUVoDvt680GA/recaptcha__en.js, line 452: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663154523051	Marionette	INFO	Stopped listening on port 52207
+1663154745245	geckodriver	INFO	Listening on 127.0.0.1:62687
+1663154747285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62688" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileHJcNEy"
+*** You are running in headless mode.
+1663154748170	Marionette	INFO	Marionette enabled
+1663154748181	Marionette	INFO	Listening on port 62695
+WebDriver BiDi listening on ws://localhost:62688
+1663154748470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileHJcNEy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62688/devtools/browser/c8de7ba0-2120-4514-a52d-858047df1269
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/6yxSRAfz8mwoKsUnPalhIcpm/recaptcha__en.js, line 66: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663154768615	Marionette	INFO	Stopped listening on port 62695
+1663155581862	geckodriver	INFO	Listening on 127.0.0.1:60215
+1663155584018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60216" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileYVUlr8"
+*** You are running in headless mode.
+1663155584946	Marionette	INFO	Marionette enabled
+1663155584957	Marionette	INFO	Listening on port 60222
+WebDriver BiDi listening on ws://localhost:60216
+1663155585647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileYVUlr8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60216/devtools/browser/d846e997-afa5-4e2a-a7c6-0d47a66dce6c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/6yxSRAfz8mwoKsUnPalhIcpm/recaptcha__en.js, line 66: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663155606480	Marionette	INFO	Stopped listening on port 60222
+1663217535383	geckodriver	INFO	Listening on 127.0.0.1:56597
+1663217537395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56598" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileiRQFcP"
+*** You are running in headless mode.
+1663217539463	Marionette	INFO	Marionette enabled
+1663217539477	Marionette	INFO	Listening on port 56605
+WebDriver BiDi listening on ws://localhost:56598
+1663217539769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileiRQFcP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56598/devtools/browser/a97f597e-1265-4a45-aa74-caa43f2562bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/zmiYzsHi8INTJBWt2QZC9aM5/recaptcha__en.js, line 236: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663217558631	Marionette	INFO	Stopped listening on port 56605
+1663217657198	geckodriver	INFO	Listening on 127.0.0.1:52415
+1663217659219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52416" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileEUyHjY"
+*** You are running in headless mode.
+1663217659826	Marionette	INFO	Marionette enabled
+1663217659835	Marionette	INFO	Listening on port 52422
+WebDriver BiDi listening on ws://localhost:52416
+1663217660302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileEUyHjY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52416/devtools/browser/5d459625-a8c5-41b7-ac30-72c5e3172d2e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/zmiYzsHi8INTJBWt2QZC9aM5/recaptcha__en.js, line 236: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663217678494	Marionette	INFO	Stopped listening on port 52422
+1663303886248	geckodriver	INFO	Listening on 127.0.0.1:51822
+1663303888326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51823" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileRS2Grc"
+*** You are running in headless mode.
+1663303890205	Marionette	INFO	Marionette enabled
+1663303890216	Marionette	INFO	Listening on port 51829
+WebDriver BiDi listening on ws://localhost:51823
+1663303890740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileRS2Grc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51823/devtools/browser/8534e4eb-8446-4f66-b985-715305e016e1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/zmiYzsHi8INTJBWt2QZC9aM5/recaptcha__en.js, line 236: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663303909209	Marionette	INFO	Stopped listening on port 51829
+1663375218497	geckodriver	INFO	Listening on 127.0.0.1:54224
+1663375222450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54225" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofilerNgwMY"
+*** You are running in headless mode.
+1663375233820	Marionette	INFO	Marionette enabled
+1663375233832	Marionette	INFO	Listening on port 54290
+WebDriver BiDi listening on ws://localhost:54225
+1663375235122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofilerNgwMY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54225/devtools/browser/f2280453-6407-455d-99da-4aa2a95f5a53
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/zmiYzsHi8INTJBWt2QZC9aM5/recaptcha__en.js, line 236: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663375258855	Marionette	INFO	Stopped listening on port 54290
+1663507926546	geckodriver	INFO	Listening on 127.0.0.1:59951
+1663507928608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59952" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileijeU5G"
+*** You are running in headless mode.
+1663507931354	Marionette	INFO	Marionette enabled
+1663507931364	Marionette	INFO	Listening on port 59958
+WebDriver BiDi listening on ws://localhost:59952
+1663507931555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileijeU5G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59952/devtools/browser/696241ef-d9ec-4d72-87ff-59721e3d1941
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/zmiYzsHi8INTJBWt2QZC9aM5/recaptcha__en.js, line 236: Error: No reCAPTCHA clients exist.
+Exiting due to channel error.
+Exiting due to channel error.
+63507964116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54211" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileUvSpKB"
+*** You are running in headless mode.
+1663507964774	Marionette	INFO	Marionette enabled
+1663507964781	Marionette	INFO	Listening on port 54217
+WebDriver BiDi listening on ws://localhost:54211
+1663507965342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileUvSpKB\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://localhost:54211/devtools/browser/0bb22c5d-53dc-4ee0-b067-8ef6e5ea3557
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/zmiYzsHi8INTJBWt2QZC9aM5/recaptcha__en.js, line 236: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663507991275	Marionette	INFO	Stopped listening on port 54217
+1663556555541	geckodriver	INFO	Listening on 127.0.0.1:60807
+1663556557614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60808" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileNhhngX"
+*** You are running in headless mode.
+1663556560218	Marionette	INFO	Marionette enabled
+1663556560231	Marionette	INFO	Listening on port 60819
+WebDriver BiDi listening on ws://localhost:60808
+1663556561023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileNhhngX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60808/devtools/browser/2b4c9271-531d-4dea-aac7-bba4e2685b7a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/zmiYzsHi8INTJBWt2QZC9aM5/recaptcha__en.js, line 236: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663556582699	Marionette	INFO	Stopped listening on port 60819
+1663645004108	geckodriver	INFO	Listening on 127.0.0.1:59933
+1663645006014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59934" "-no-remote" "-profile" "C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileTh57SI"
+*** You are running in headless mode.
+1663645011029	Marionette	INFO	Marionette enabled
+1663645011043	Marionette	INFO	Listening on port 59939
+WebDriver BiDi listening on ws://localhost:59934
+1663645011339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rajesh\\AppData\\Local\\Temp\\rust_mozprofileTh57SI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59934/devtools/browser/4ccf4b62-162d-4a2e-b068-5aa7cc374ea7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/zmiYzsHi8INTJBWt2QZC9aM5/recaptcha__en.js, line 236: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663645032257	Marionette	INFO	Stopped listening on port 59939
+!!! error running onStopped callback: TypeError: callback is not a function
+1663850497522	geckodriver	INFO	Listening on 127.0.0.1:54332
+1663850500579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54333" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileIoIJip"
+*** You are running in headless mode.
+1663850500838	Marionette	INFO	Marionette enabled
+1663850500842	Marionette	INFO	Listening on port 54338
+WebDriver BiDi listening on ws://127.0.0.1:54333
+1663850501147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileIoIJip\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54333/devtools/browser/61eb3f93-a92d-42f6-bf8e-729f7dd1ca5a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/ovmhLiigaw4D9ujHYlHcKKhP/recaptcha__en.js, line 380: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663850520469	Marionette	INFO	Stopped listening on port 54338
+1663851279792	geckodriver	INFO	Listening on 127.0.0.1:54447
+1663851282884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54448" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilezD1cqb"
+*** You are running in headless mode.
+1663851283129	Marionette	INFO	Marionette enabled
+1663851283132	Marionette	INFO	Listening on port 54453
+WebDriver BiDi listening on ws://127.0.0.1:54448
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1663851283428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilezD1cqb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54448/devtools/browser/5d965cbe-5682-480d-b304-20c4bb1c10c7
+1663851412752	geckodriver	INFO	Listening on 127.0.0.1:54490
+1663851415817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54491" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileh3y73n"
+*** You are running in headless mode.
+1663851416089	Marionette	INFO	Marionette enabled
+1663851416092	Marionette	INFO	Listening on port 54496
+WebDriver BiDi listening on ws://127.0.0.1:54491
+1663851416376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileh3y73n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54491/devtools/browser/b84a33f4-058a-482f-859c-e50e643adf06
+1663851529264	geckodriver	INFO	Listening on 127.0.0.1:54541
+1663851532343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54542" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilenI2paQ"
+*** You are running in headless mode.
+1663851532598	Marionette	INFO	Marionette enabled
+1663851532601	Marionette	INFO	Listening on port 54547
+WebDriver BiDi listening on ws://127.0.0.1:54542
+1663851532880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilenI2paQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54542/devtools/browser/0391d048-4f0e-47d3-9476-281b0fa356a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/ovmhLiigaw4D9ujHYlHcKKhP/recaptcha__en.js, line 380: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663851551455	Marionette	INFO	Stopped listening on port 54547
+1663851887458	geckodriver	INFO	Listening on 127.0.0.1:54661
+1663851890551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54662" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofiles1AEyF"
+*** You are running in headless mode.
+1663851890840	Marionette	INFO	Marionette enabled
+1663851890842	Marionette	INFO	Listening on port 54668
+WebDriver BiDi listening on ws://127.0.0.1:54662
+1663851891111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofiles1AEyF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54662/devtools/browser/9c8c318a-893b-4e2b-abb2-4c2149fd3871
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/ovmhLiigaw4D9ujHYlHcKKhP/recaptcha__en.js, line 380: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663851909758	Marionette	INFO	Stopped listening on port 54668
+1663851984648	geckodriver	INFO	Listening on 127.0.0.1:54749
+1663851987752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54750" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile6aTfnD"
+*** You are running in headless mode.
+1663851988006	Marionette	INFO	Marionette enabled
+1663851988008	Marionette	INFO	Listening on port 54755
+WebDriver BiDi listening on ws://127.0.0.1:54750
+1663851988296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile6aTfnD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54750/devtools/browser/f8677276-370f-449a-805c-cc6e69d8aa7c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/ovmhLiigaw4D9ujHYlHcKKhP/recaptcha__en.js, line 380: Error: No reCAPTCHA clients exist.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1663852006870	Marionette	INFO	Stopped listening on port 54755
+1664717196020	geckodriver	INFO	Listening on 127.0.0.1:60148
+1664717199138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60149" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilejkF5w4"
+*** You are running in headless mode.
+1664717199427	Marionette	INFO	Marionette enabled
+1664717199430	Marionette	INFO	Listening on port 60158
+WebDriver BiDi listening on ws://127.0.0.1:60149
+1664717199741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilejkF5w4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60149/devtools/browser/3c0bc5d1-19f2-4dc0-9cfb-339d29f8dbe7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664717218744	geckodriver	INFO	Listening on 127.0.0.1:60220
+1664717226023	geckodriver	INFO	Listening on 127.0.0.1:60228
+1664717229115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60229" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileDxsPmU"
+*** You are running in headless mode.
+1664717229364	Marionette	INFO	Marionette enabled
+1664717229367	Marionette	INFO	Listening on port 60236
+WebDriver BiDi listening on ws://127.0.0.1:60229
+1664717229690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileDxsPmU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60229/devtools/browser/4f5c8396-301b-4754-8fc3-32d5d741e058
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664717346522	Marionette	INFO	Stopped listening on port 60236
+[Parent 1752, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664717374737	geckodriver	INFO	Listening on 127.0.0.1:60361
+1664717377794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60362" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileOFqXov"
+*** You are running in headless mode.
+1664717378029	Marionette	INFO	Marionette enabled
+1664717378032	Marionette	INFO	Listening on port 60367
+WebDriver BiDi listening on ws://127.0.0.1:60362
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1664717378337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileOFqXov\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60362/devtools/browser/4512382e-0eb9-49fd-9e4b-9884d46edd5f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664717449759	geckodriver	INFO	Listening on 127.0.0.1:60429
+1664717452839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60430" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilesZh1pM"
+1664717453064	Marionette	INFO	Marionette enabled
+1664717453067	Marionette	INFO	Listening on port 60435
+WebDriver BiDi listening on ws://127.0.0.1:60430
+1664717453377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilesZh1pM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60430/devtools/browser/83b94617-169f-4d32-bf70-95be6c7548d0
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664717661895	Marionette	INFO	Stopped listening on port 60435
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664717687965	geckodriver	INFO	Listening on 127.0.0.1:60520
+1664717691034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60521" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofiler8Fe7R"
+1664717691288	Marionette	INFO	Marionette enabled
+1664717691291	Marionette	INFO	Listening on port 60529
+WebDriver BiDi listening on ws://127.0.0.1:60521
+1664717691611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofiler8Fe7R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60521/devtools/browser/ee6e10ee-ed83-488d-a437-4f2e4e1563c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664717699247	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1664721458958	geckodriver	INFO	Listening on 127.0.0.1:61139
+1664721462029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61140" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileYCnbUE"
+1664721462292	Marionette	INFO	Marionette enabled
+1664721462295	Marionette	INFO	Listening on port 61145
+WebDriver BiDi listening on ws://127.0.0.1:61140
+1664721462647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileYCnbUE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61140/devtools/browser/879553b9-ba1a-4ded-89ed-46f0efa5c8fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664721491271	Marionette	INFO	Stopped listening on port 61145
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664721515396	geckodriver	INFO	Listening on 127.0.0.1:61208
+1664721518452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61209" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile3em1AP"
+1664721518680	Marionette	INFO	Marionette enabled
+1664721518683	Marionette	INFO	Listening on port 61214
+WebDriver BiDi listening on ws://127.0.0.1:61209
+1664721519022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile3em1AP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61209/devtools/browser/5b1dbb93-1a2f-430e-a271-6281966e81d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664721604645	geckodriver	INFO	Listening on 127.0.0.1:61412
+1664721607690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61413" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileJjQ5gL"
+1664721607927	Marionette	INFO	Marionette enabled
+1664721607931	Marionette	INFO	Listening on port 61418
+WebDriver BiDi listening on ws://127.0.0.1:61413
+1664721608242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileJjQ5gL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61413/devtools/browser/2db6297d-a14e-48dc-9730-735653f46d03
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664721642899	geckodriver	INFO	Listening on 127.0.0.1:61480
+1664721645965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61481" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileM67xyg"
+1664721646210	Marionette	INFO	Marionette enabled
+1664721646213	Marionette	INFO	Listening on port 61486
+WebDriver BiDi listening on ws://127.0.0.1:61481
+1664721646518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileM67xyg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61481/devtools/browser/e697a390-4860-4013-a9ac-369886cbf46a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664721934211	geckodriver	INFO	Listening on 127.0.0.1:61565
+1664721937284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61566" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilexUtmAj"
+1664721937519	Marionette	INFO	Marionette enabled
+1664721937522	Marionette	INFO	Listening on port 61571
+WebDriver BiDi listening on ws://127.0.0.1:61566
+1664721937828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilexUtmAj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61566/devtools/browser/b644da73-74c8-4561-a663-9060642ff715
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722048489	geckodriver	INFO	Listening on 127.0.0.1:61647
+1664722051573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61648" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilebSe0Mg"
+1664722051795	Marionette	INFO	Marionette enabled
+1664722051798	Marionette	INFO	Listening on port 61654
+WebDriver BiDi listening on ws://127.0.0.1:61648
+1664722052135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilebSe0Mg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61648/devtools/browser/f15ad509-fff2-4650-82f5-1e519bd79995
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722327944	geckodriver	INFO	Listening on 127.0.0.1:61784
+1664722331037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61785" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileeTtFb9"
+1664722331299	Marionette	INFO	Marionette enabled
+1664722331302	Marionette	INFO	Listening on port 61790
+WebDriver BiDi listening on ws://127.0.0.1:61785
+1664722331628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileeTtFb9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61785/devtools/browser/234feef1-ba46-4a06-b99c-eb27ab5ddec6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722405062	geckodriver	INFO	Listening on 127.0.0.1:61852
+1664722408137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61853" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilepDe9DG"
+1664722408375	Marionette	INFO	Marionette enabled
+1664722408378	Marionette	INFO	Listening on port 61858
+WebDriver BiDi listening on ws://127.0.0.1:61853
+1664722408688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilepDe9DG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61853/devtools/browser/fdc6ad33-27f6-482e-8233-5799bc7d9100
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722432850	geckodriver	INFO	Listening on 127.0.0.1:61922
+1664722435914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61923" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilewy7iFn"
+1664722436142	Marionette	INFO	Marionette enabled
+1664722436145	Marionette	INFO	Listening on port 61928
+WebDriver BiDi listening on ws://127.0.0.1:61923
+1664722436454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilewy7iFn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61923/devtools/browser/b26b208d-dd87-45f7-b3dc-5b05eb0e88e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722501468	geckodriver	INFO	Listening on 127.0.0.1:62004
+1664722504531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62005" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilempSgC3"
+1664722504760	Marionette	INFO	Marionette enabled
+1664722504763	Marionette	INFO	Listening on port 62011
+WebDriver BiDi listening on ws://127.0.0.1:62005
+1664722505077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilempSgC3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62005/devtools/browser/0a05b33d-9997-46e0-b3eb-169bd928106e
+1664722524378	Marionette	INFO	Stopped listening on port 62011
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664722526122	geckodriver	INFO	Listening on 127.0.0.1:62075
+1664722529213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62076" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileKulSE6"
+1664722529443	Marionette	INFO	Marionette enabled
+1664722529446	Marionette	INFO	Listening on port 62082
+WebDriver BiDi listening on ws://127.0.0.1:62076
+1664722529758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileKulSE6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62076/devtools/browser/d85a442b-ba2c-46be-9489-32c1605fbb45
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722561309	Marionette	INFO	Stopped listening on port 62082
+1664722588063	geckodriver	INFO	Listening on 127.0.0.1:62151
+1664722591158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62152" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile8xLA1I"
+1664722591389	Marionette	INFO	Marionette enabled
+1664722591392	Marionette	INFO	Listening on port 62157
+WebDriver BiDi listening on ws://127.0.0.1:62152
+1664722591695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile8xLA1I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62152/devtools/browser/fd5279ff-1523-4b4e-9cbf-897b097e618e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722624597	geckodriver	INFO	Listening on 127.0.0.1:62220
+1664722627700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62221" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileF2uedU"
+1664722627952	Marionette	INFO	Marionette enabled
+1664722627955	Marionette	INFO	Listening on port 62226
+WebDriver BiDi listening on ws://127.0.0.1:62221
+1664722628257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileF2uedU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62221/devtools/browser/ed3eecdd-cda6-4b89-b5e8-6f8a1ea99f19
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722646563	geckodriver	INFO	Listening on 127.0.0.1:62286
+1664722664078	geckodriver	INFO	Listening on 127.0.0.1:62295
+1664722667144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62296" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile3vEqzF"
+1664722667365	Marionette	INFO	Marionette enabled
+1664722667368	Marionette	INFO	Listening on port 62301
+WebDriver BiDi listening on ws://127.0.0.1:62296
+1664722667706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile3vEqzF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62296/devtools/browser/69339680-d6fe-4a1c-b9ba-45514bae1e51
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722700893	geckodriver	INFO	Listening on 127.0.0.1:62372
+1664722703967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62373" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile4hxYDF"
+1664722704207	Marionette	INFO	Marionette enabled
+1664722704210	Marionette	INFO	Listening on port 62378
+WebDriver BiDi listening on ws://127.0.0.1:62373
+1664722704519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile4hxYDF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62373/devtools/browser/6f5c4dac-61a0-4de0-ae1f-3e7245236cf9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722726537	Marionette	INFO	Stopped listening on port 62378
+1664722757646	geckodriver	INFO	Listening on 127.0.0.1:62449
+1664722760749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62450" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilezwqoBx"
+1664722761016	Marionette	INFO	Marionette enabled
+1664722761019	Marionette	INFO	Listening on port 62455
+WebDriver BiDi listening on ws://127.0.0.1:62450
+1664722761324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilezwqoBx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62450/devtools/browser/6974f868-77ea-49a6-ae4b-1a96647134a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722783190	Marionette	INFO	Stopped listening on port 62455
+1664722819593	geckodriver	INFO	Listening on 127.0.0.1:62525
+1664722822661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62526" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileAyj4JH"
+1664722822929	Marionette	INFO	Marionette enabled
+1664722822932	Marionette	INFO	Listening on port 62531
+WebDriver BiDi listening on ws://127.0.0.1:62526
+1664722823233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileAyj4JH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62526/devtools/browser/51922fc9-26d9-4599-963e-eb6e26f9fcae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664722845155	Marionette	INFO	Stopped listening on port 62531
+1664724872533	geckodriver	INFO	Listening on 127.0.0.1:62778
+1664724875570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62779" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileJvmEY7"
+*** You are running in headless mode.
+1664724875818	Marionette	INFO	Marionette enabled
+1664724875820	Marionette	INFO	Listening on port 62784
+WebDriver BiDi listening on ws://127.0.0.1:62779
+1664724876106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileJvmEY7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62779/devtools/browser/92d11961-91a0-435c-9a2f-479ace6836de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664724954769	geckodriver	INFO	Listening on 127.0.0.1:62853
+1664724957842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62854" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile2xsmyI"
+*** You are running in headless mode.
+1664724958106	Marionette	INFO	Marionette enabled
+1664724958109	Marionette	INFO	Listening on port 62859
+WebDriver BiDi listening on ws://127.0.0.1:62854
+1664724958382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile2xsmyI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62854/devtools/browser/ccc510b6-ac28-4e6e-9b81-ba5dece9bde1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664725046432	geckodriver	INFO	Listening on 127.0.0.1:62922
+1664725049501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62923" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilezsg2Ow"
+*** You are running in headless mode.
+1664725049811	Marionette	INFO	Marionette enabled
+1664725049814	Marionette	INFO	Listening on port 62928
+WebDriver BiDi listening on ws://127.0.0.1:62923
+1664725050094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilezsg2Ow\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62923/devtools/browser/8402465d-34e7-4d63-abed-2406a357acd1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664725118322	geckodriver	INFO	Listening on 127.0.0.1:62989
+1664725121402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62990" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileAHI9f2"
+1664725121669	Marionette	INFO	Marionette enabled
+1664725121672	Marionette	INFO	Listening on port 62996
+WebDriver BiDi listening on ws://127.0.0.1:62990
+1664725122003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileAHI9f2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62990/devtools/browser/2c7500f4-1907-4eeb-83cc-144662624274
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664725161246	geckodriver	INFO	Listening on 127.0.0.1:63061
+1664725164324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63062" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilePl6uUn"
+1664725164598	Marionette	INFO	Marionette enabled
+1664725164601	Marionette	INFO	Listening on port 63067
+WebDriver BiDi listening on ws://127.0.0.1:63062
+1664725164899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilePl6uUn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63062/devtools/browser/76f043db-d92f-4953-a527-049d0f9357ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664725241395	geckodriver	INFO	Listening on 127.0.0.1:63136
+1664725244463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63137" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilebwvgj6"
+1664725244707	Marionette	INFO	Marionette enabled
+1664725244709	Marionette	INFO	Listening on port 63142
+WebDriver BiDi listening on ws://127.0.0.1:63137
+1664725245010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilebwvgj6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63137/devtools/browser/148ddc23-5b48-482a-afa8-e62bbcb6b45a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664725297109	geckodriver	INFO	Listening on 127.0.0.1:63204
+1664725300184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63205" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileLSQIB0"
+1664725300461	Marionette	INFO	Marionette enabled
+1664725300464	Marionette	INFO	Listening on port 63210
+WebDriver BiDi listening on ws://127.0.0.1:63205
+1664725300768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileLSQIB0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63205/devtools/browser/1d56fde6-63bb-4dbb-afff-0d5c84f0bb17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664725726310	geckodriver	INFO	Listening on 127.0.0.1:63301
+1664725729372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63302" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilel2LJ32"
+1664725729640	Marionette	INFO	Marionette enabled
+1664725729643	Marionette	INFO	Listening on port 63307
+WebDriver BiDi listening on ws://127.0.0.1:63302
+1664725729990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilel2LJ32\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63302/devtools/browser/751e509a-f383-4ffd-b8c3-9b93843e08bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664725790250	geckodriver	INFO	Listening on 127.0.0.1:63373
+1664725793337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63374" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileJon2Tz"
+1664725793583	Marionette	INFO	Marionette enabled
+1664725793586	Marionette	INFO	Listening on port 63379
+WebDriver BiDi listening on ws://127.0.0.1:63374
+1664725793884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileJon2Tz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63374/devtools/browser/3413c58e-fc39-4d55-9ef7-5a2fe7c57202
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664725859031	geckodriver	INFO	Listening on 127.0.0.1:63441
+1664725862070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63442" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileYlJ7Jn"
+1664725862303	Marionette	INFO	Marionette enabled
+1664725862306	Marionette	INFO	Listening on port 63447
+WebDriver BiDi listening on ws://127.0.0.1:63442
+1664725862658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileYlJ7Jn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63442/devtools/browser/acc3fd2c-9c0f-4581-a2fa-921e9dcbf040
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664725957959	geckodriver	INFO	Listening on 127.0.0.1:63513
+1664725961021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63514" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileeEaafj"
+1664725961300	Marionette	INFO	Marionette enabled
+1664725961303	Marionette	INFO	Listening on port 63519
+WebDriver BiDi listening on ws://127.0.0.1:63514
+1664725961613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileeEaafj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63514/devtools/browser/c903187e-8a15-4caa-a5e9-f7e4971d0bbd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664725981653	geckodriver	INFO	Listening on 127.0.0.1:63581
+1664725984734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63582" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileqs9P8Y"
+1664725985024	Marionette	INFO	Marionette enabled
+1664725985027	Marionette	INFO	Listening on port 63587
+WebDriver BiDi listening on ws://127.0.0.1:63582
+1664725985326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileqs9P8Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63582/devtools/browser/b1847ba8-1675-4183-8bb9-3342a242b9a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664726013743	Marionette	INFO	Stopped listening on port 63587
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664727060613	geckodriver	INFO	Listening on 127.0.0.1:63798
+1664727063661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63799" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileZKiCNA"
+1664727063935	Marionette	INFO	Marionette enabled
+1664727063938	Marionette	INFO	Listening on port 63804
+WebDriver BiDi listening on ws://127.0.0.1:63799
+1664727064238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileZKiCNA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63799/devtools/browser/b4ee4354-b74b-4d43-bfb3-8bc304ebe09d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664727070213	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664727079681	Marionette	INFO	Stopped listening on port 63804
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664727385696	geckodriver	INFO	Listening on 127.0.0.1:63895
+1664727388759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63896" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilecKZ96b"
+1664727389016	Marionette	INFO	Marionette enabled
+1664727389019	Marionette	INFO	Listening on port 63901
+WebDriver BiDi listening on ws://127.0.0.1:63896
+1664727389318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilecKZ96b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63896/devtools/browser/135becb1-e6f4-45bc-9d05-78b37ace2fb7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664727405513	Marionette	INFO	Stopped listening on port 63901
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664728088026	geckodriver	INFO	Listening on 127.0.0.1:64100
+1664728091077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64101" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileJdOq90"
+1664728091343	Marionette	INFO	Marionette enabled
+1664728091346	Marionette	INFO	Listening on port 64106
+WebDriver BiDi listening on ws://127.0.0.1:64101
+1664728091642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileJdOq90\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64101/devtools/browser/b2996776-9602-4ef8-9bf1-3e57bf77fc4e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664728106107	Marionette	INFO	Stopped listening on port 64106
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664728508525	geckodriver	INFO	Listening on 127.0.0.1:64308
+1664728511576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64309" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileYPvOyb"
+1664728511821	Marionette	INFO	Marionette enabled
+1664728511824	Marionette	INFO	Listening on port 64322
+WebDriver BiDi listening on ws://127.0.0.1:64309
+1664728512133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileYPvOyb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64309/devtools/browser/caa981b8-9e18-4d85-8e87-9bb602c681bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664728528676	Marionette	INFO	Stopped listening on port 64322
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664729598717	geckodriver	INFO	Listening on 127.0.0.1:64499
+1664729601809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64500" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileMgqcv1"
+1664729602075	Marionette	INFO	Marionette enabled
+1664729602078	Marionette	INFO	Listening on port 64505
+WebDriver BiDi listening on ws://127.0.0.1:64500
+1664729602386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileMgqcv1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64500/devtools/browser/707dfdbc-8977-4bf3-9856-da9e398d8a69
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664729607015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664729611788	Marionette	INFO	Stopped listening on port 64505
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664732198594	geckodriver	INFO	Listening on 127.0.0.1:64756
+1664732201639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64757" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileQOV6fB"
+1664732201892	Marionette	INFO	Marionette enabled
+1664732201895	Marionette	INFO	Listening on port 64762
+WebDriver BiDi listening on ws://127.0.0.1:64757
+1664732202246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileQOV6fB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64757/devtools/browser/e4c2dc9b-f89f-47ce-b6ff-cae7deb6589f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664732207601	Marionette	INFO	Stopped listening on port 64762
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664736351662	geckodriver	INFO	Listening on 127.0.0.1:65218
+1664736354723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65219" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileqQYVnB"
+1664736354991	Marionette	INFO	Marionette enabled
+1664736354994	Marionette	INFO	Listening on port 65233
+WebDriver BiDi listening on ws://127.0.0.1:65219
+1664736355299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileqQYVnB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65219/devtools/browser/ef0ca781-7d64-4c7b-ae08-ec2bdbb6fbda
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664736406301	Marionette	INFO	Stopped listening on port 65233
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664765906501	geckodriver	INFO	Listening on 127.0.0.1:50429
+1664765909587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50430" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilekB2mok"
+1664765909877	Marionette	INFO	Marionette enabled
+1664765909881	Marionette	INFO	Listening on port 50443
+WebDriver BiDi listening on ws://127.0.0.1:50430
+1664765910212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilekB2mok\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50430/devtools/browser/5440fba9-0ce2-42cc-b293-67df8a5d96dc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664766000277	Marionette	INFO	Stopped listening on port 50443
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664766085878	geckodriver	INFO	Listening on 127.0.0.1:50553
+1664766088957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50554" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilekkDD0q"
+1664766089201	Marionette	INFO	Marionette enabled
+1664766089204	Marionette	INFO	Listening on port 50559
+WebDriver BiDi listening on ws://127.0.0.1:50554
+1664766089503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilekkDD0q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50554/devtools/browser/7a7d36bc-4d31-4c5f-a3d5-be8ff964ce15
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664766099628	Marionette	INFO	Stopped listening on port 50559
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664767005092	geckodriver	INFO	Listening on 127.0.0.1:50704
+1664767008203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50705" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileRj01US"
+1664767008456	Marionette	INFO	Marionette enabled
+1664767008459	Marionette	INFO	Listening on port 50710
+WebDriver BiDi listening on ws://127.0.0.1:50705
+1664767008760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileRj01US\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50705/devtools/browser/cec44fd7-f443-4a60-8867-179e56c2d52c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664767158236	geckodriver	INFO	Listening on 127.0.0.1:50800
+1664767161306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50801" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile7GZa3e"
+1664767161595	Marionette	INFO	Marionette enabled
+1664767161598	Marionette	INFO	Listening on port 50806
+WebDriver BiDi listening on ws://127.0.0.1:50801
+1664767161913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile7GZa3e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50801/devtools/browser/a0b80146-2fa1-4a41-ba21-873c5d572647
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664767167367	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664767175853	Marionette	INFO	Stopped listening on port 50806
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664767577383	geckodriver	INFO	Listening on 127.0.0.1:50928
+1664767580445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50929" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileCcpKr7"
+1664767580677	Marionette	INFO	Marionette enabled
+1664767580680	Marionette	INFO	Listening on port 50934
+WebDriver BiDi listening on ws://127.0.0.1:50929
+1664767580982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileCcpKr7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50929/devtools/browser/769a3ef9-1bf8-4368-8dac-d716a0dbef6d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664767600124	Marionette	INFO	Stopped listening on port 50934
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664767707059	geckodriver	INFO	Listening on 127.0.0.1:51003
+1664767710140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51004" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileGu6iyc"
+1664767710397	Marionette	INFO	Marionette enabled
+1664767710400	Marionette	INFO	Listening on port 51010
+WebDriver BiDi listening on ws://127.0.0.1:51004
+1664767710705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileGu6iyc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51004/devtools/browser/a1bd0763-cbed-49d7-8077-66ffc469e980
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664767726431	Marionette	INFO	Stopped listening on port 51010
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664767748377	geckodriver	INFO	Listening on 127.0.0.1:51080
+1664767751429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51081" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileoOCE9b"
+1664767751667	Marionette	INFO	Marionette enabled
+1664767751670	Marionette	INFO	Listening on port 51086
+WebDriver BiDi listening on ws://127.0.0.1:51081
+1664767752020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileoOCE9b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51081/devtools/browser/19ae3677-ef91-42ce-a44b-a835f7b43702
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1664769293876	geckodriver	INFO	Listening on 127.0.0.1:51262
+1664769296948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51263" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileddnYcG"
+1664769297213	Marionette	INFO	Marionette enabled
+1664769297216	Marionette	INFO	Listening on port 51268
+WebDriver BiDi listening on ws://127.0.0.1:51263
+1664769297525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileddnYcG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51263/devtools/browser/6ad9ef66-42b7-425a-97af-1d238d258a96
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664769363784	geckodriver	INFO	Listening on 127.0.0.1:51336
+1664769366837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51337" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilenAwEv1"
+1664769367108	Marionette	INFO	Marionette enabled
+1664769367111	Marionette	INFO	Listening on port 51342
+WebDriver BiDi listening on ws://127.0.0.1:51337
+1664769367420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilenAwEv1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51337/devtools/browser/2456d806-bcc4-4124-b3f7-d0d1c8687747
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1664769416400	Marionette	INFO	Stopped listening on port 51342
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51412" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileEijw8a"
+1664769413389	Marionette	INFO	Marionette enabled
+1664769413392	Marionette	INFO	Listening on port 51417
+WebDriver BiDi listening on ws://127.0.0.1:51412
+1664769413688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileEijw8a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51412/devtools/browser/1e17dfc9-39b7-4b6c-bb6b-7a987a3cdb97
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664769441724	Marionette	INFO	Stopped listening on port 51417
+1664807665587	geckodriver	INFO	Listening on 127.0.0.1:54914
+1664807668652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54915" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileiF0KOI"
+1664807668923	Marionette	INFO	Marionette enabled
+1664807668926	Marionette	INFO	Listening on port 54920
+WebDriver BiDi listening on ws://127.0.0.1:54915
+1664807669242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileiF0KOI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54915/devtools/browser/c7128d81-267c-417f-89ca-3b38ace0646e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1664807689867	Marionette	INFO	Stopped listening on port 54920
+1664849113526	geckodriver	INFO	Listening on 127.0.0.1:57892
+1664849116602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57893" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileAlpwW2"
+*** You are running in headless mode.
+1664849116872	Marionette	INFO	Marionette enabled
+1664849116876	Marionette	INFO	Listening on port 57898
+WebDriver BiDi listening on ws://127.0.0.1:57893
+1664849117161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileAlpwW2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57893/devtools/browser/ef587ab4-7cd8-45c2-bb46-e603386195f4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664849142085	Marionette	INFO	Stopped listening on port 57898
+1664957375933	geckodriver	INFO	Listening on 127.0.0.1:55873
+1664957378985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55874" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileBJvPoe"
+*** You are running in headless mode.
+1664957411395	geckodriver	INFO	Listening on 127.0.0.1:55931
+1664957414447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55932" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile6puISm"
+*** You are running in headless mode.
+1664957414685	Marionette	INFO	Marionette enabled
+1664957414688	Marionette	INFO	Listening on port 55938
+WebDriver BiDi listening on ws://127.0.0.1:55932
+1664957414991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile6puISm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55932/devtools/browser/83caf20a-c07e-45a1-8976-4fea5c377409
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1664957436755	Marionette	INFO	Stopped listening on port 55938
+1665023498667	geckodriver	INFO	Listening on 127.0.0.1:60474
+1665023501754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60475" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileRxIW8P"
+*** You are running in headless mode.
+1665023501998	Marionette	INFO	Marionette enabled
+1665023502001	Marionette	INFO	Listening on port 60480
+WebDriver BiDi listening on ws://127.0.0.1:60475
+1665023502288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileRxIW8P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60475/devtools/browser/acacf906-5805-4cf8-adb3-ba42c2158845
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665023523988	Marionette	INFO	Stopped listening on port 60480
+1665030101855	geckodriver	INFO	Listening on 127.0.0.1:61058
+1665030104917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61059" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilerw6H7B"
+*** You are running in headless mode.
+1665030105177	Marionette	INFO	Marionette enabled
+1665030105180	Marionette	INFO	Listening on port 61064
+WebDriver BiDi listening on ws://127.0.0.1:61059
+1665030105469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilerw6H7B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61059/devtools/browser/0abd8845-a487-4c43-a652-0d814c938c90
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665030127166	Marionette	INFO	Stopped listening on port 61064
+1665030192239	geckodriver	INFO	Listening on 127.0.0.1:61161
+1665030195292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61162" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofiletwwgtg"
+*** You are running in headless mode.
+1665030195523	Marionette	INFO	Marionette enabled
+1665030195526	Marionette	INFO	Listening on port 61167
+WebDriver BiDi listening on ws://127.0.0.1:61162
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1665030195819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofiletwwgtg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61162/devtools/browser/1c4cf3c3-bafa-42d2-b787-7accaa73cfee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665030217425	Marionette	INFO	Stopped listening on port 61167
+1665039777414	geckodriver	INFO	Listening on 127.0.0.1:62270
+1665039780498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62271" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileTw9ua5"
+*** You are running in headless mode.
+1665039780799	Marionette	INFO	Marionette enabled
+1665039780802	Marionette	INFO	Listening on port 62276
+WebDriver BiDi listening on ws://127.0.0.1:62271
+1665039781080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileTw9ua5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62271/devtools/browser/2a6dd67d-5a56-4023-ae4b-7878cfec948a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665039802761	Marionette	INFO	Stopped listening on port 62276
+1665109303049	geckodriver	INFO	Listening on 127.0.0.1:61745
+1665109306095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61746" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile3OqOmy"
+*** You are running in headless mode.
+1665109306318	Marionette	INFO	Marionette enabled
+1665109306321	Marionette	INFO	Listening on port 61751
+WebDriver BiDi listening on ws://127.0.0.1:61746
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1665109306613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile3OqOmy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61746/devtools/browser/e8885481-a857-4b21-877e-9d735308babb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665109328545	Marionette	INFO	Stopped listening on port 61751
+1665303508638	geckodriver	INFO	Listening on 127.0.0.1:55069
+1665303511764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55070" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileLL2ohW"
+*** You are running in headless mode.
+1665303512004	Marionette	INFO	Marionette enabled
+1665303512007	Marionette	INFO	Listening on port 55075
+WebDriver BiDi listening on ws://127.0.0.1:55070
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1665303512296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileLL2ohW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55070/devtools/browser/fa91e959-5241-463f-a33c-56bb08d380ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665303533936	Marionette	INFO	Stopped listening on port 55075
+1665372333745	geckodriver	INFO	Listening on 127.0.0.1:60328
+1665372336806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60329" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilezRSIga"
+*** You are running in headless mode.
+1665372337065	Marionette	INFO	Marionette enabled
+1665372337069	Marionette	INFO	Listening on port 60334
+WebDriver BiDi listening on ws://127.0.0.1:60329
+1665372337347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilezRSIga\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60329/devtools/browser/8376bdb3-2905-44c1-8546-fd0576230637
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665372359103	Marionette	INFO	Stopped listening on port 60334
+1665570506309	geckodriver	INFO	Listening on 127.0.0.1:51829
+1665570509345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51830" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileEjicIk"
+*** You are running in headless mode.
+1665570509631	Marionette	INFO	Marionette enabled
+1665570509634	Marionette	INFO	Listening on port 51835
+WebDriver BiDi listening on ws://127.0.0.1:51830
+1665570509946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileEjicIk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51830/devtools/browser/6c9056d9-2e37-440c-b6a0-5172e5f62b50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665570531643	Marionette	INFO	Stopped listening on port 51835
+1665674682832	geckodriver	INFO	Listening on 127.0.0.1:60515
+1665674685980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60516" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilei0UBLk"
+*** You are running in headless mode.
+1665674686406	Marionette	INFO	Marionette enabled
+1665674686410	Marionette	INFO	Listening on port 60521
+WebDriver BiDi listening on ws://127.0.0.1:60516
+1665674686592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilei0UBLk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60516/devtools/browser/e4ce7044-567a-46eb-a478-798f9becd9e1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665674708525	Marionette	INFO	Stopped listening on port 60521
+1665686085864	geckodriver	INFO	Listening on 127.0.0.1:61651
+1665686088922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61652" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileAshQxl"
+*** You are running in headless mode.
+1665686089167	Marionette	INFO	Marionette enabled
+1665686089170	Marionette	INFO	Listening on port 61658
+WebDriver BiDi listening on ws://127.0.0.1:61652
+1665686089465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileAshQxl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61652/devtools/browser/72bf6b01-ba02-4e5d-9bb7-646ca1cb0139
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665686111179	Marionette	INFO	Stopped listening on port 61658
+1665686136793	geckodriver	INFO	Listening on 127.0.0.1:62111
+1665686139852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62112" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileBBjbmH"
+*** You are running in headless mode.
+1665686140099	Marionette	INFO	Marionette enabled
+1665686140102	Marionette	INFO	Listening on port 62117
+WebDriver BiDi listening on ws://127.0.0.1:62112
+1665686140398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileBBjbmH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62112/devtools/browser/4739926a-6b58-4bf8-b1cf-68d84c86a018
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665686162083	Marionette	INFO	Stopped listening on port 62117
+1665715706607	geckodriver	INFO	Listening on 127.0.0.1:63573
+1665715709691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63574" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilePSm504"
+*** You are running in headless mode.
+1665715709990	Marionette	INFO	Marionette enabled
+1665715709993	Marionette	INFO	Listening on port 63579
+WebDriver BiDi listening on ws://127.0.0.1:63574
+1665715710281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilePSm504\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63574/devtools/browser/ae711fce-779f-492c-b736-c00a8947104e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1665715731972	Marionette	INFO	Stopped listening on port 63579
+1665729001615	geckodriver	INFO	Listening on 127.0.0.1:49271
+1665729004702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49272" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileSq7lgB"
+*** You are running in headless mode.
+1665729004932	Marionette	INFO	Marionette enabled
+1665729004935	Marionette	INFO	Listening on port 49277
+WebDriver BiDi listening on ws://127.0.0.1:49272
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1665729005230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileSq7lgB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49272/devtools/browser/c0a45d42-2d12-4f2a-8a6d-ff2c68ff32bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: https://login.fyers.in/new-sso/2.0/login.min.js?version=1.0, line 1: TypeError: document[_0x2685d3(...)](...) is null
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  main/fxmonitor-breaches local data was corrupted
+console.warn: services.settings: main/fxmonitor-breaches Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed again InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  main/fxmonitor-breaches local data was corrupted
+console.warn: services.settings: main/fxmonitor-breaches Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed again InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  main/fxmonitor-breaches local data was corrupted
+console.warn: services.settings: main/fxmonitor-breaches Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed again InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  main/fxmonitor-breaches local data was corrupted
+console.warn: services.settings: main/fxmonitor-breaches Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed again InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  main/fxmonitor-breaches local data was corrupted
+console.warn: services.settings: main/fxmonitor-breaches Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed again InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  main/fxmonitor-breaches local data was corrupted
+console.warn: services.settings: main/fxmonitor-breaches Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed again InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/fxmonitor-breaches)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1666677301473	geckodriver	INFO	Listening on 127.0.0.1:49591
+1666677304550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49592" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileRXZ5ha"
+*** You are running in headless mode.
+1666677304846	Marionette	INFO	Marionette enabled
+1666677304850	Marionette	INFO	Listening on port 49597
+WebDriver BiDi listening on ws://127.0.0.1:49592
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1666677305157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileRXZ5ha\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49592/devtools/browser/590fb4c8-c7e7-4163-8d67-53650ac381f9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1666788478588	geckodriver	INFO	Listening on 127.0.0.1:53055
+1666788481734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53056" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile3qfKwJ"
+*** You are running in headless mode.
+1666788481991	Marionette	INFO	Marionette enabled
+1666788481994	Marionette	INFO	Listening on port 53061
+WebDriver BiDi listening on ws://127.0.0.1:53056
+1666788482281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile3qfKwJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53056/devtools/browser/367b095b-7d9f-41ff-a2b3-fce8b8787622
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1666788503974	Marionette	INFO	Stopped listening on port 53061
+1666847286559	geckodriver	INFO	Listening on 127.0.0.1:60190
+1666847289626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60191" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileq242Dc"
+*** You are running in headless mode.
+1666847289858	Marionette	INFO	Marionette enabled
+1666847289861	Marionette	INFO	Listening on port 60197
+WebDriver BiDi listening on ws://127.0.0.1:60191
+1666847290160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileq242Dc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60191/devtools/browser/9910896d-6a36-4efe-83f9-ecc2f41ae52c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1666847311893	Marionette	INFO	Stopped listening on port 60197
+1666934972213	geckodriver	INFO	Listening on 127.0.0.1:54529
+1666934975311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54530" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile5USvoK"
+*** You are running in headless mode.
+1666934975650	Marionette	INFO	Marionette enabled
+1666934975653	Marionette	INFO	Listening on port 54535
+WebDriver BiDi listening on ws://127.0.0.1:54530
+1666934975933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofile5USvoK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54530/devtools/browser/c3742987-1687-4483-af8a-2ebb4b42c2c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1666934998087	Marionette	INFO	Stopped listening on port 54535
+1667584649468	geckodriver	INFO	Listening on 127.0.0.1:56091
+1667584652546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56092" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilequUo3E"
+*** You are running in headless mode.
+1667584663435	geckodriver	INFO	Listening on 127.0.0.1:56261
+1667584666528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56262" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilefRwU1G"
+*** You are running in headless mode.
+1667584666797	Marionette	INFO	Marionette enabled
+1667584666801	Marionette	INFO	Listening on port 56321
+WebDriver BiDi listening on ws://127.0.0.1:56262
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1667584667109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilefRwU1G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56262/devtools/browser/8c219bd9-7400-4381-a9b5-a7dee6ae0de9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1667584688872	Marionette	INFO	Stopped listening on port 56321
+1667586622757	geckodriver	INFO	Listening on 127.0.0.1:57469
+1667586625827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57470" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileuI6NY4"
+*** You are running in headless mode.
+1667586626065	Marionette	INFO	Marionette enabled
+1667586626069	Marionette	INFO	Listening on port 57475
+WebDriver BiDi listening on ws://127.0.0.1:57470
+1667586626366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileuI6NY4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57470/devtools/browser/b609d0e1-15b3-4d8b-b64c-e6f229c7272c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1667586651447	Marionette	INFO	Stopped listening on port 57475
+1667624813478	geckodriver	INFO	Listening on 127.0.0.1:51753
+1667624825019	geckodriver	INFO	Listening on 127.0.0.1:51762
+1667624828185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51763" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilejnNVxj"
+*** You are running in headless mode.
+1667624828633	Marionette	INFO	Marionette enabled
+1667624828636	Marionette	INFO	Listening on port 51768
+WebDriver BiDi listening on ws://127.0.0.1:51763
+1667624828814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilejnNVxj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51763/devtools/browser/e7644732-7a1d-497a-ab8f-6124422a2153
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1667624858137	Marionette	INFO	Stopped listening on port 51768
+1667709542415	geckodriver	INFO	Listening on 127.0.0.1:60794
+1667709545538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60795" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileiSuITS"
+*** You are running in headless mode.
+1667709545862	Marionette	INFO	Marionette enabled
+1667709545865	Marionette	INFO	Listening on port 60800
+WebDriver BiDi listening on ws://127.0.0.1:60795
+1667709546149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileiSuITS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60795/devtools/browser/13663e0a-c28a-4038-a1b5-31a576b82e08
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60869
+1667709560130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60870" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileS6AvPK"
+*** You are running in headless mode.
+1667709560424	Marionette	INFO	Marionette enabled
+1667709560427	Marionette	INFO	Listening on port 60875
+WebDriver BiDi listening on ws://127.0.0.1:60870
+1667709560710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileS6AvPK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60870/devtools/browser/dd24a788-ee88-45b1-95b5-7a74a515074f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1667709582462	Marionette	INFO	Stopped listening on port 60875
+1667906457972	geckodriver	INFO	Listening on 127.0.0.1:57273
+1667906461106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57274" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilevOjsj4"
+*** You are running in headless mode.
+1667906461524	Marionette	INFO	Marionette enabled
+1667906461527	Marionette	INFO	Listening on port 57279
+WebDriver BiDi listening on ws://127.0.0.1:57274
+1667906461716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilevOjsj4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57274/devtools/browser/215d5b4c-8a2a-4f45-931f-763ddbf1a8b4
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57927
+1667906576328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57928" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileml6dbE"
+*** You are running in headless mode.
+1667906576554	Marionette	INFO	Marionette enabled
+1667906576557	Marionette	INFO	Listening on port 57933
+WebDriver BiDi listening on ws://127.0.0.1:57928
+1667906576851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileml6dbE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57928/devtools/browser/4efff4e9-8e9b-4ef2-88c0-b135ef15a114
+1674187535430	geckodriver	INFO	Listening on 127.0.0.1:59938
+1674187538498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59939" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileorFpDO"
+1674187538756	Marionette	INFO	Marionette enabled
+1674187538759	Marionette	INFO	Listening on port 59944
+WebDriver BiDi listening on ws://127.0.0.1:59939
+1674187539087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofileorFpDO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59939/devtools/browser/acc44cd5-59db-4bbd-8e5b-1557f066bc9a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1674187671764	Marionette	INFO	Stopped listening on port 59944
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674187709631	geckodriver	INFO	Listening on 127.0.0.1:60021
+1674187712749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60022" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilemxA9vU"
+1674187713041	Marionette	INFO	Marionette enabled
+1674187713045	Marionette	INFO	Listening on port 60027
+WebDriver BiDi listening on ws://127.0.0.1:60022
+1674187713292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilemxA9vU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60022/devtools/browser/e67d50f6-eceb-4436-a14d-93d151d8156e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1674187917604	geckodriver	INFO	Listening on 127.0.0.1:60179
+1674187920683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60180" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilednMnlC"
+1674187920924	Marionette	INFO	Marionette enabled
+1674187920927	Marionette	INFO	Listening on port 60185
+WebDriver BiDi listening on ws://127.0.0.1:60180
+1674187921244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofilednMnlC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60180/devtools/browser/a50a7498-37d6-4d6b-8523-0d6d37fc6d34
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1674187981312	Marionette	INFO	Stopped listening on port 60185
+1674385868168	geckodriver	INFO	Listening on 127.0.0.1:54446
+1674385871285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54447" "-no-remote" "-profile" "C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofiler5rRIS"
+1674385871696	Marionette	INFO	Marionette enabled
+1674385871700	Marionette	INFO	Listening on port 54453
+WebDriver BiDi listening on ws://127.0.0.1:54447
+1674385871891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriram\\AppData\\Local\\Temp\\rust_mozprofiler5rRIS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54447/devtools/browser/60d60490-3f0e-48b1-8e81-52a44b0330d6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api.fyers.in."
+1674385893735	Marionette	INFO	Stopped listening on port 54453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

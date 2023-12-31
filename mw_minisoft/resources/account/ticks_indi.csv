@@ -1,0 +1,2 @@
+instrument_expiry_date,strike_price_position,product_type,instrument_exchange,instrument_segment,instrument_token,instrument_trading_symbol,instrument_name,XV19372,multi_quan,default_quantity,running_quantity
+2022-11-10,100.0,NRML,NFO,NFO-OPT,NSE:BANKNIFTY22NOVFUT,NSE:NIFTYBANK-INDEX,NSE:BANKNIFTY,25,True,25,25
