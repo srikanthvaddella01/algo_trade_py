@@ -1,0 +1,2 @@
+instrument_expiry_date,strike_price_position,product_type,instrument_exchange,instrument_segment,instrument_token,instrument_trading_symbol,instrument_name,start,end,zpx046,ia7795,ds6699,multi_quan,default_quantity,running_quantity
+2022-02-24,100.0,NRML,NFO,NFO-OPT,13278210,BANKNIFTY22FEBFUT,BANKNIFTY,540,930,0,0,0,True,25,25

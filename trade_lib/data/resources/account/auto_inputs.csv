@@ -1,0 +1,2 @@
+scheduler_minutes,data_interval,super_trend_period,super_trend_multiplier,env
+15,15minute,7,3,prod
